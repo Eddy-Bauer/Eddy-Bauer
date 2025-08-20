@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hallo 👋 Ich bin Eddy!
 
-<!--
-**Eddy-Bauer/Eddy-Bauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin ein frisch abgeschlossener Java-Entwickler, der mit Leidenschaft sauberen und effizienten Code schreibt. 
+In meinem Studium, habe ich mich auf objektorientierte Programmierung und die Entwicklung von Backend-Systemen konzentriert.
 
-Here are some ideas to get you started:
+**Was ich im Moment mache:**
+- Ich lerne Spring Boot und JavaScript, um meine Fähigkeiten in der Webentwicklung zu vertiefen.
+- Ich arbeite an einem kleinen JavaFX-Projekt, um meine Kenntnisse in der GUI-Entwicklung zu festigen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Meine Fähigkeiten:**
+- **Sprachen:** Java (sehr gute Kenntnisse)
+- **GUI-Entwicklung:** JavaFX, Swing
+- **Tools & Technologien:** Git, GitHub, Eclipse
+- **Datenbanken:** Grundkenntnisse in SQL
+
+**Meine Projekte:**
+- **Memory-Spiel:** Ein einfaches Java-Spiel, um meine Kenntnisse in der Algorithmenentwicklung und GUI-Programmierung zu demonstrieren.
+
+**Kontakt:**
+- ✉️ Sie können mich gerne unter [eddibauer13@gmail.com] kontaktieren.
+- 🔗 Mein Instaffo-Profil: [(https://app.instaffo.com/candidate/profile)]
