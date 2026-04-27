@@ -21,6 +21,7 @@ Ich bringe eine starke technische Grundlage in Java mit und arbeite mich gezielt
 - 2 Webprojekte: Eigene Homepages mit HTML & CSS umgesetzt
 
 **🔜 In Arbeit:**
+<br>
 Gemeinsam mit einem Team entwickle ich eine responsive Reiseblog-Plattform.
 Dabei arbeite ich praxisnah mit Git-Workflows, strukturiere Code im Team und setze Features kollaborativ um – genau wie im echten Entwickleralltag.
 
