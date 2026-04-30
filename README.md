@@ -1,7 +1,7 @@
 ### Hallo 👋 Ich bin Eddy!
 
-Quereinsteiger mit Fokus auf Java- und Fullstack-Entwicklung – aktuell Vollzeit als CNC-Fräser tätig und parallel in Weiterbildung zum Fullstack Developer bei der Developer Akademie.
-Mein Fernstudium zum Java-Programmierer habe ich bereits erfolgreich abgeschlossen.
+Aktuell Vollzeit als CNC-Fräser tätig und parallel in Weiterbildung zum Fullstack Developer bei der Developer Akademie.
+Mein Fernstudium bei der ILS Hamburg zum Java-Programmierer, habe ich bereits erfolgreich abgeschlossen.
 
 Ich bringe eine starke technische Grundlage in Java mit und arbeite mich gezielt in moderne Webtechnologien ein. Mein Anspruch: schnell produktiv werden, sauberen Code liefern und echten Mehrwert im Team schaffen.
 
